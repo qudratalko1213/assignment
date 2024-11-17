@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'splash.dart';
 import 'home_page.dart';
+import 'items.dart';
 void main(List<String> args) {
   runApp(address());
 }
@@ -15,6 +16,7 @@ class address extends StatelessWidget {
       routes: {
         'splash': (context)=> splash(),
         'home': (context)=> home(),
+        'one' : (context)=> one(),
       },
     );
   }
