@@ -33,7 +33,6 @@ class _homeState extends State<home> {
         items(context, 'one', "iphone 13"),
         items(context, 'one', "iphone 15"),
         items(context, 'one', "iphone 16"),
-
           ],
         )
       ),
