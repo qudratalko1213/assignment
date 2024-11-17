@@ -44,7 +44,7 @@ items(BuildContext context, address, name){
   ListView(
 children: [
   ListTile(
-    leading: Text("adf"),
+    leading: Icon(Icons.apple),
     title: Text("$name"),
 
   onTap: () {
