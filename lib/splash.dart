@@ -25,7 +25,7 @@ class splash extends StatelessWidget {
             children: [
               Icon(Icons.favorite),
               SizedBox(height: 50,),
-              Text("Logo"),
+              Text("top 10 iphone"),
               Text("v 0.1.1")
             ],
           ),
