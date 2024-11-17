@@ -17,15 +17,6 @@ class address extends StatelessWidget {
         'splash': (context)=> splash(),
         'home': (context)=> home(),
         'one' : (context)=> one(),
-        'two' : (context)=> two(),
-        'three' : (context)=> three(),
-        'four' : (context)=> four(),
-        'five' : (context)=> five(),
-        'six' : (context)=> six(),
-        'seven' : (context)=> seven(),
-        'eight' : (context)=> eight(),
-        'nine' : (context)=> nine(),
-        'ten' : (context)=> two(),
       },
     );
   }

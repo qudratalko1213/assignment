@@ -24,12 +24,16 @@ class _homeState extends State<home> {
         body: 
         Column(
           children: [
-        items(context, 'home', "Afg"),
-        items(context, 'home', "Afg1"),
-        items(context, 'home', "Afg3"),
-        items(context, 'home', "Afg4"),
-        items(context, 'home', "Afg5"),
-        items(context, 'home', "Afg6"),
+        items(context, 'one', "iphone 4"),
+        items(context, 'one', "iphone 5"),
+        items(context, 'one', "iphone 6"),
+        items(context, 'one', "iphone 10"),
+        items(context, 'one', "iphone 11"),
+        items(context, 'one', "iphone X"),
+        items(context, 'one', "iphone 12"),
+        items(context, 'one', "iphone 13"),
+        items(context, 'one', "iphone 15"),
+        items(context, 'one', "iphone 16"),
 
           ],
         )
