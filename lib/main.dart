@@ -18,6 +18,14 @@ class address extends StatelessWidget {
         'home': (context)=> home(),
         'one' : (context)=> one(),
         'two' : (context)=> two(),
+        'two' : (context)=> two(),
+        'two' : (context)=> two(),
+        'two' : (context)=> two(),
+        'two' : (context)=> two(),
+        'two' : (context)=> two(),
+        'two' : (context)=> two(),
+        'two' : (context)=> two(),
+        'two' : (context)=> two(),
       },
     );
   }
