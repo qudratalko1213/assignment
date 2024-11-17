@@ -24,8 +24,8 @@ class address extends StatelessWidget {
         'six' : (context)=> six(),
         'seven' : (context)=> seven(),
         'eight' : (context)=> eight(),
-        'two' : (context)=> two(),
-        'two' : (context)=> two(),
+        'nine' : (context)=> nine(),
+        'ten' : (context)=> two(),
       },
     );
   }
