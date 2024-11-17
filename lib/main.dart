@@ -17,6 +17,7 @@ class address extends StatelessWidget {
         'splash': (context)=> splash(),
         'home': (context)=> home(),
         'one' : (context)=> one(),
+        'two' : (context)=> two(),
       },
     );
   }
